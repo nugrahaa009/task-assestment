@@ -1,0 +1,6 @@
+:where(.css-dev-only-do-not-override-xu9wm8).ant-tooltip .ant-tooltip-inner {
+  background-color: transparent;
+  color: #000;
+  font-weight: 500;
+  box-shadow: none;
+}
